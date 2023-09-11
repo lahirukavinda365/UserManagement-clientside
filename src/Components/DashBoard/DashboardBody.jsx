@@ -13,7 +13,7 @@ const DashboardBody = () => {
                 <th>View Details</th>
             </tr>
             <tr>
-                <td className="container">197745</td>
+                <td>197745</td>
                 <td>Chamika Prasad</td>
                 <td>IT</td>
                 <td>chamika123@gmail.com</td>
