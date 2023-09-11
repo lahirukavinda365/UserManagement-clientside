@@ -1,10 +1,10 @@
 import AuthFormBody from "../Components/AuthFormBody/AuthFormBody"
-
+import "./PageStyles/AuthPage.css"
 
 const SignIn = () => {
   return (
-    <div>
-        <div>
+    <div className="sign-in" style={{textAlign:"center"}}>
+        <div style={{alignItems:"center"}}>
             <h3>Sign in To The System</h3>
         </div>
         <div>

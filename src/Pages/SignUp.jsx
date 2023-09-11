@@ -4,7 +4,7 @@ AuthFormBody
 
 const SignUp = () => {
   return (
-    <div>
+    <div style={{textAlign:"center"}}>
         <div>
             <h3>Sign Up To The System</h3>
         </div>
